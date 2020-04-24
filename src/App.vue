@@ -21,7 +21,7 @@ export default {
   },
   data() {
     return {
-      slideNumber: 3
+      slideNumber: 1
     };
   }
 };
